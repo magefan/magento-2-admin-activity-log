@@ -6,7 +6,7 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-admin-activity-log.jpg">
 
-[Magento 2 Admin Activity Log](https://magefan.com/magento-2-admin-action-log) Magento 2 Admin Activity Log is the extension that allows you to track all Magento admin panel activity. Monitor all changes your admin users make in the admin panel and track all login attempts.
+[Magento 2 Admin Activity Log](https://magefan.com/magento-2-admin-action-log) is the extension that allows you to track all Magento admin panel activity. Monitor all changes your admin users make in the admin panel and track all login attempts.
 
 Ensure a safe environment and protect your store data with better action tracking. Quickly find and eliminate any mistakes and unauthorized logins.
 
