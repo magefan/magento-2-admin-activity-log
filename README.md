@@ -12,7 +12,7 @@ Ensure a safe environment and protect your store data with better action trackin
 
 Better store security is Magefan Better Admin Activity Log for Magento 2. 
 
-<a href="https://magefan.com/magento-2-google-customer-reviews"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-google-customer-reviews#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+<a href="https://magefan.com/magento-2-admin-action-log"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-admin-action-log#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
