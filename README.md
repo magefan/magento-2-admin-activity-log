@@ -16,7 +16,6 @@ Better store security is Magefan Better Admin Activity Log for Magento 2.
 
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
         
 ## Benefits
 * Track admin activity better for every admin user
