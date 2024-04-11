@@ -17,7 +17,6 @@ Better store security is Magefan Better Admin Activity Log for Magento 2.
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
   * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
-  * **Note** that extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, B2B you need to purchase the license at magefan.com.
         
 ## Benefits
 * Track admin activity better for every admin user
@@ -28,7 +27,7 @@ Better store security is Magefan Better Admin Activity Log for Magento 2.
 
 ## Features
 
-* **Track Every Action Admin Users Take**
+### Track Every Action Admin Users Take
 
 Since all admin users are responsible for different activities in your store it might be hard to track down all changes made. But not with the Magento 2 Admin Activity Log. 
 
@@ -41,7 +40,7 @@ You can view the detailed reports on every change and eliminate any mistakes in 
 </p>
 
 
-* ***Filter Though All Changes Made in the Admin**
+### Filter Though All Changes Made in the Admin
 Tracking every action of every admin user will create an extensive log. However, you can still find a specific change using filters. Find out:
 
 - who made a specific change
@@ -55,7 +54,7 @@ You’ll never miss any important changes with all the details Magento 2 Admin A
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/filter-admin-panel-changes-magento.png">
 </p>
 
-* **Monitor All Login Attempts by Country**
+### Monitor All Login Attempts by Country
 
 To protect your store from any malicious actions you need to track who logs into your admin panel first. And you can do that with this Magento 2 Admin Activity Log module that stores that data in one grid. 
 
@@ -65,7 +64,7 @@ Identify any unauthorized login attempts by IP and country and take action fast.
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/magento-admin-login-attempts.png">
 </p>
 
-* **Clear Activity and Login Attempts Automatically**
+### Clear Activity and Login Attempts Automatically
 
 Hundreds of actions take place in your admin panel daily. While our Magento Admin Action Log extension ensures you don’t miss any, you don’t need to store them forever. 
 
@@ -75,11 +74,41 @@ To save resources you need to clear the logs occasionally. But you don’t have 
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/admin-action-log-lifetime-magento.png">
 </p>
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://aal.demo.magefan.top/admin/mfaal/activitylog/index/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Admin Action Log Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://aal.demo.magefan.top/admin/mfaal/activitylog/index/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/module-google-tag-manager/issues).
+[issue tracker](https://github.com/magefan/magento-2-admin-activity-log/issues).
 
 ## Need More Features?
 Please contact us to get a quote
