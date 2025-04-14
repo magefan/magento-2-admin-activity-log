@@ -1,21 +1,25 @@
 # [Magento 2 Admin Activity Log](https://magefan.com/magento-2-admin-action-log) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-admin-activity-log.jpg">
 
-[Magento 2 Admin Activity Log](https://magefan.com/magento-2-admin-action-log) is the extension that allows you to track all Magento admin panel activity. Monitor all changes your admin users make in the admin panel and track all login attempts.
+[Magento 2 Admin Activity Log](https://magefan.com/magento-2-admin-action-log) is an extension that allows you to track all Magento admin panel activity. Monitor all changes your admin users make in the admin panel and track all login attempts.
 
 Ensure a safe environment and protect your store data with better action tracking. Quickly find and eliminate any mistakes and unauthorized logins.
 
 Better store security is Magefan Better Admin Activity Log for Magento 2. 
 
-<a href="https://magefan.com/magento-2-admin-action-log"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-admin-action-log#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-## Requirements
-  * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+<a href="https://magefan.com/magento-2-admin-action-log"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
+
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-admin-action-log/documentation)
+  * [Change Log](https://magefan.com/magento-2-admin-action-log/change-log)
+  * [FAQs](https://magefan.com/magento-2-admin-action-log#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+
         
 ## Benefits
 * Track admin activity better for every admin user
@@ -23,16 +27,15 @@ Better store security is Magefan Better Admin Activity Log for Magento 2.
 * View detailed reports about changes made to the admin panel
 * Clear admin activity log automatically 
 
-
 ## Features
 
 ### Track Every Action Admin Users Take
 
-Since all admin users are responsible for different activities in your store it might be hard to track down all changes made. But not with the Magento 2 Admin Activity Log. 
+Since all admin users are responsible for different activities in your store it might be hard to track down all changes made. But not with the Magento 2 Admin Activity Log.
 
-This extension helps you keep track of all changed, viewed, deleted or created pages, products, categories, blocks, widgets and every other element of your admin panel. 
+This extension helps you keep track of all changed, viewed, deleted, or created pages, products, categories, blocks, widgets, and every other element of your admin panel.
 
-You can view the detailed reports on every change and eliminate any mistakes in time. 
+You can view the detailed reports on every change and eliminate any mistakes in time.
 
 <p align="center">
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/magento-admin-activity-log.png">
@@ -47,7 +50,7 @@ Tracking every action of every admin user will create an extensive log. However,
 - When a specific change was made
 - where (IP country) it was made from
 
-You’ll never miss any important changes with all the details Magento 2 Admin Activity Log tracks.   
+You’ll never miss any important changes with all the details Magento 2 Admin Activity Log tracks.  
 
 <p align="center">
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/filter-admin-panel-changes-magento.png">
@@ -55,7 +58,7 @@ You’ll never miss any important changes with all the details Magento 2 Admin A
 
 ### Monitor All Login Attempts by Country
 
-To protect your store from any malicious actions you need to track who logs into your admin panel first. And you can do that with this Magento 2 Admin Activity Log module that stores that data in one grid. 
+To protect your store from any malicious actions you need to track who logs into your admin panel first. And you can do that with this Magento 2 Admin Activity Log module that stores that data in one grid.
 
 Identify any unauthorized login attempts by IP and country and take action fast. Make sure your store is protected by taking necessary measures.
 
@@ -63,14 +66,35 @@ Identify any unauthorized login attempts by IP and country and take action fast.
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/magento-admin-login-attempts.png">
 </p>
 
-### Clear Activity and Login Attempts Automatically
+### Detect Geographical Location Accurately
 
-Hundreds of actions take place in your admin panel daily. While our Magento Admin Action Log extension ensures you don’t miss any, you don’t need to store them forever. 
+To know exactly where login attempts are coming from, you need to detect the location accurately. The Magento 2 Admin Activity Log ensures exactly that.
 
-To save resources you need to clear the logs occasionally. But you don’t have to, since we do it for you. Simply specify the lifetime for the active and login logs and the module will clear them automatically.
+It comes with extensive GeoIP databases that help you see where the change was made or login was attempted. You don’t have to install additional databases. This module covers all the crucial aspects for you.
+
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/admin-action-log-lifetime-magento.png">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-geoip-database.webp">
+</p>
+
+### Log Activity for Only Specific Sections
+
+As useful as admin tracking is, you may not need to log every single action your admins take. Perhaps you have some specific areas you’d like to keep a closer eye on and the Magento 2 Admin Activity Log can help you do that.
+
+Choose what sections to log the activity in and make your records more targeted. Define key areas for tracking and never miss a single action happening within them.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/track-only-specific-actions-in-magento-admin.webp">
+</p>
+
+### Clear Activity and Login Attempts Automatically
+
+Hundreds of actions take place in your admin panel daily. While our Magento Admin Action Log extension ensures you don’t miss any, you don’t need to store them forever.
+
+To save resources you need to clear the logs occasionally. But you don’t have to, since we do it for you. Simply specify the lifetime for the active and login logs and the Magento Admin Action Log module will clear them automatically.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/admin-action-log-lifetime-magento.webp">
 </p>
 
 ## Demo
@@ -87,7 +111,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://aal.demo.magefan.top/admin/mfaal/activitylog/index/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Admin Action Log Demo"
             height="220"
           >
@@ -115,13 +139,6 @@ https://magefan.com/contact
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
-
-## Documentation
-
-**General**
-* [How to install Magento 2 Admin Activity Log?](https://magefan.com/magento-2-admin-action-log/installation)
-* [How to update Magento 2 Admin Activity Log?](https://magefan.com/magento-2-admin-action-log/updating)
-* [How to uninstall Magento 2 Admin Activity Log?](https://magefan.com/magento-2-admin-action-log/uninstalling)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
