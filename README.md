@@ -22,10 +22,13 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
         
 ## Benefits
-* Track admin activity better for every admin user
-* Monitor all login attempts by county 
-* View detailed reports about changes made to the admin panel
-* Clear admin activity log automatically 
+* [Track Every Action Admin Users Take](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#track-every-action-admin-users-take)
+* [Filter Though All Changes Made in the Admin](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#filter-though-all-changes-made-in-the-admin)
+* [Monitor All Login Attempts by Country](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#monitor-all-login-attempts-by-country)
+* [Detect Geographical Location Accurately](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#detect-geographical-location-accurately)
+* [Log Activity for Only Specific Sections](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#log-activity-for-only-specific-sections)
+* [Clear Activity and Login Attempts Automatically](https://github.com/magefan/magento-2-admin-activity-log?tab=readme-ov-file#clear-activity-and-login-attempts-automatically)
+
 
 ## Features
 
