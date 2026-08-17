@@ -180,6 +180,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 * [Magento 2 Size Chart](https://magefan.com/magento-2-size-chart)
 * [Magento 2 Security Extension](https://magefan.com/magento-2-security-extension)
 * [Magento 2 Bot Blocker](https://magefan.com/magento-2-bot-blocker)
+* [Magento 2 AI Agent](https://magefan.com/magento-2-ai-agent)
 * [Magento Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)
 * [Magento 2 Product Tabs](https://magefan.com/magento-2/extensions/product-tabs)
 * [Magento 2 Product Widget](https://magefan.com/magento-2-product-widget)
